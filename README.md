@@ -1,5 +1,5 @@
 
-# Assignment
+# Library-Management-Api
 
 This repository contains the code and documentation for the **Library Management System** assignment. The system is built using **Node.js**, **Express.js**, **React.js**, and **MySQL** to manage books, users, and borrowing/returning actions efficiently.
 
